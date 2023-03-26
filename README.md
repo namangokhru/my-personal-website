@@ -1,2 +1,2 @@
 # my-personal-website
-naman's personal webpage
+NAMAN's personal webpage
